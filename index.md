@@ -2,7 +2,7 @@
   #header_wrap {
     display: none;
   }
-  #footer-wrap {
+  #footer_wrap {
     display: none;
   }
 </style>
