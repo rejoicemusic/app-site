@@ -1,8 +1,8 @@
 <style>
-  .header {
+  #header_wrap {
     display: none;
   }
-  .footer {
+  #footer-wrap {
     display: none;
   }
 </style>
