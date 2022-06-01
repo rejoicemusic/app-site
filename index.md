@@ -1,4 +1,7 @@
 <style>
+  h1 {
+    display: none;  
+  }
   #header_wrap {
     display: none;
   }
