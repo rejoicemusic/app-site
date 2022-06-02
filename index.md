@@ -1,49 +1,51 @@
+<meta name="robots" content="noindex">
 <style>
-  h1 {
+  h1:first {
     display: none;  
   }
-  #header_wrap {
-    display: none;
-  }
-  #footer_wrap {
-    display: none;
+  ul {
+    padding-left: 18px;
   }
 </style>
 
-## Rejoice Music Testing
 
-You can use the [editor on GitHub](https://github.com/rejoicemusic/test-site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Rejoice Music Testing
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Status
 
-### Markdown
+The app currenty has a limited selection of Zions Harp albums. Please provide feedback on the following,
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Performance and reliability core audio features.
+- General app layout, wording, etc...
 
-```markdown
-Syntax highlighted code block
+<br />
 
-# Header 1
-## Header 2
-### Header 3
+## Features
 
-- Bulleted
-- List
+- Explore Tab: Browse music by artist, album, series and category
+- Library Tab: Like and save artists, albums and songs to your library
+- Background Audio support. Shows now playing information and controls on the lock screen and in the notification panel depending on the phone model.
+- Airplay and Bluetooth support. Connect and play on the Apple Homepod, Amazon Echo, and other Bluetooth devices.
+- Android Auto and Apple Carplay support. Show now playing information and controls on your car screen.
+- Coming Soon: Full Rejoice Music Library
+- Coming Soon: Search
+- Coming Soon: User playlists
+- Coming Soon: Sync settings between devices
 
-1. Numbered
-2. List
+<br />
 
-**Bold** and _Italic_ and `Code` text
+## Installation
 
-[Link](url) and ![Image](src)
-```
+The app is available for iPhones and Android Devices at the following links,
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[Apple iPhone](https:www.apple.com)
 
-### Jekyll Themes
+[Google Android](https:www.google.com)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rejoicemusic/test-site/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<br />
+
+## Feedback and Help
+
+Email app@rejoicemusic.org with feedback and support.
