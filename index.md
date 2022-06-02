@@ -1,6 +1,6 @@
 <meta name="robots" content="noindex">
 <style>
-  h1:first {
+  h1 {
     display: none;  
   }
   ul {
@@ -9,9 +9,11 @@
 </style>
 
 
-# Rejoice Music Testing
+## Rejoice Music Testing
 
-## Status
+<br />
+
+### Status
 
 The app currenty has a limited selection of Zions Harp albums. Please provide feedback on the following,
 
@@ -20,7 +22,7 @@ The app currenty has a limited selection of Zions Harp albums. Please provide fe
 
 <br />
 
-## Features
+### Features
 
 - Explore Tab: Browse music by artist, album, series and category
 - Library Tab: Like and save artists, albums and songs to your library
@@ -34,7 +36,7 @@ The app currenty has a limited selection of Zions Harp albums. Please provide fe
 
 <br />
 
-## Installation
+### Installation
 
 The app is available for iPhones and Android Devices at the following links,
 
@@ -46,6 +48,6 @@ The app is available for iPhones and Android Devices at the following links,
 
 <br />
 
-## Feedback and Help
+### Feedback and Help
 
 Email app@rejoicemusic.org with feedback and support.
