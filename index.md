@@ -11,7 +11,6 @@
 
 ## Rejoice Music Testing
 
-<br />
 
 ### Status
 
@@ -20,7 +19,6 @@ The app currenty has a limited selection of Zions Harp albums. Please provide fe
 - Performance and reliability core audio features.
 - General app layout, wording, etc...
 
-<br />
 
 ### Features
 
@@ -34,7 +32,6 @@ The app currenty has a limited selection of Zions Harp albums. Please provide fe
 - Coming Soon: User playlists
 - Coming Soon: Sync settings between devices
 
-<br />
 
 ### Installation
 
@@ -46,7 +43,6 @@ The app is available for iPhones and Android Devices at the following links,
 
 
 
-<br />
 
 ### Feedback and Help
 
