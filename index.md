@@ -37,9 +37,9 @@ The app currenty has a limited selection of Zions Harp albums. Please provide fe
 
 The app is available for iPhones and Android Devices at the following links,
 
-[Apple iPhone](https:www.apple.com)
+[Apple iPhone](itms-services://?action=download-manifest&url=https://rejoicemusic.github.io/test-site/release/ios/manifest.plist)
 
-[Google Android](https:www.google.com)
+[Google Android](https://rejoicemusic.github.io/test-site/release/android/app.apk)
 
 
 
