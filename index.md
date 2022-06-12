@@ -67,4 +67,4 @@ Email app@rejoicemusic.org with feedback and support.
 
 ### Change Log
 
-- **2022-07-11 1.0.0-beta (232):** Initial beta release
+- **2022-07-11 1.0.0-beta (102):** Initial beta release
