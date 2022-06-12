@@ -14,7 +14,6 @@
 
 ## Rejoice Music Testing
 
-<br>
 
 ### Status
 
