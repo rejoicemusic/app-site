@@ -1,3 +1,3 @@
-## Rejoice Music Testing Site
+## Rejoice Music
 
 Site with information for app testing.

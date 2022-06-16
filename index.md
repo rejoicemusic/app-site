@@ -17,5 +17,6 @@
 
 ## Rejoice Music App
 
-[Testing](/testing)
-[Privacy Policy](/privacy)
+[Testing](testing/)
+
+[Privacy Policy](privacy/)
