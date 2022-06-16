@@ -4,7 +4,7 @@
     display: none;  
   }
   h3 {
-    margin-top: 36px;
+    margin-top: 36px !important;
   }
   ul {
     padding-left: 18px !important;
