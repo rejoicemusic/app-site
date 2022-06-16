@@ -3,6 +3,9 @@
   h1 {
     display: none;  
   }
+  h3 {
+      padding-top: 32px;
+  }
   ul {
     padding-left: 18px !important;
   }
@@ -22,7 +25,7 @@ The app currenty has a limited selection of Zions Harp albums. Please provide fe
 - Performance and reliability core audio features.
 - General app layout, wording, etc...
 
-<br>
+
 
 ### Features
 
@@ -37,7 +40,6 @@ The app currenty has a limited selection of Zions Harp albums. Please provide fe
 - Coming Soon: Sync settings between devices
 
 
-<br>
 
 ### Installation
 
@@ -54,14 +56,11 @@ The app currenty has a limited selection of Zions Harp albums. Please provide fe
 
 
 
-<br>
-
 ### Feedback and Help
 
 Email app@rejoicemusic.org with feedback and support.
 
 
-<br>
 
 ### Change Log
 
