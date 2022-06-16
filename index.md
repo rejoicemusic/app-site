@@ -4,7 +4,7 @@
     display: none;  
   }
   ul {
-    padding-left: 18px;
+    padding-left: 18px !important;
   }
   .markdown-body {
     max-width: 800px
@@ -43,8 +43,7 @@ The app currenty has a limited selection of Zions Harp albums. Please provide fe
 
 **iOS**
 - Install the Test Flight app from the [App Store](https://apps.apple.com/us/app/testflight/id899247664).
-- Send your Apple ID email address to app@rejoicemusic.org. You can find this by going to Settings > Tap on your name at the top of the screen.
-- You will then get an email with an invitation to test the app in Test Flight.
+- Install the App from [Test Flight](https://testflight.apple.com/join/gYHQHlWo).
 
 **Android**
 - Enable developer mode on your phone.
