@@ -13,8 +13,8 @@
     max-width: 800px
   }
   hr {
-    border: 10px solid #607c8a;
-    border-radius: 5px;
+    border: 10px solid #607c8a !important;
+    border-radius: 5px !important;
   }
 </style>
 

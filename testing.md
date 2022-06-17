@@ -13,8 +13,8 @@
     max-width: 800px
   }
   hr {
-    border: 10px solid #607c8a;
-    border-radius: 5px;
+    border: 10px solid #607c8a !important;
+    border-radius: 5px !important;
   }
 </style>
 
@@ -24,21 +24,21 @@
 
 ### Status
 
-The app currently has a limited selection of Zions Harp albums. Please provide feedback on the general app layout, wording, and reliability of audio playing features.
+The app currently has a limited selection of Zion's Harp albums. Please provide feedback on the general app layout, wording, and reliability of audio playing features.
 
 
 
 ### Features
 
-- Explore Tab (view all music): Browse music by artist, album, series and category
-- Library Tab (view your saved music): Like and save artists, albums and songs to your library
-- Background Audio support. Shows now playing information and controls on the lock screen and in the notification panel depending on your phone model.
+- Explore tab: Browse all music by artist, album, series, and category.
+- Library tab: View your liked artists, albums, and songs.
+- Background audio support. Shows "now playing" information and controls on the lock screen.
 - Airplay and Bluetooth support. Connect and play on the Apple Homepod, Amazon Echo, and other Bluetooth devices.
-- Car support. Show now playing information and controls on your car screen.
-- Coming Soon: Full Rejoice Music Library
-- Coming Soon: Search
-- Coming Soon: User playlists
-- Coming Soon: Sync settings between devices
+- Car support. Show "now playing" information and controls on your car screen.
+- Full Rejoice Music Library - Coming Soon
+- Search - Coming Soon
+- User playlists - Coming Soon
+- Sync settings between devices - Coming Soon
 
 
 
@@ -60,6 +60,6 @@ The app currently has a limited selection of Zions Harp albums. Please provide f
 ### Change Log
 
 - **2022-07-14 1.0.0-beta (103):**
-  - Sign in hidden to comply with App Store review
+  - Miscellaneous updates to comply with App Store review
 - **2022-07-11 1.0.0-beta (102):** 
   - Initial beta release
