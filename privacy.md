@@ -6,6 +6,10 @@
   ul {
     padding-left: 18px;
   }
+  hr {
+    border: 10px solid #607c8a;
+    border-radius: 5px;
+  }
 </style>
 
 
