@@ -20,7 +20,7 @@
 
 ### Status
 
-The app currenty has a limited selection of Zions Harp albums. Please provide feedback on the general app layout, wording, and reliability of audio playing features.
+The app currently has a limited selection of Zions Harp albums. Please provide feedback on the general app layout, wording, and reliability of audio playing features.
 
 
 
