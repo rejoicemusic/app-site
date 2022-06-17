@@ -3,12 +3,11 @@
   h1 {
     display: none;  
   }
+  h2 {
+    border-bottom: 4px solid #607c8a !important;
+  }
   ul {
     padding-left: 18px;
-  }
-  hr {
-    border: 10px solid #607c8a !important;
-    border-radius: 5px !important;
   }
 </style>
 
