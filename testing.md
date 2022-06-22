@@ -45,14 +45,10 @@ The app currently has a limited selection of Zion's Harp albums. Please provide 
 
 **iOS**
 1. Install the Test Flight app from the [App Store](https://apps.apple.com/us/app/testflight/id899247664).
-2. Install the App from [Test Flight](https://testflight.apple.com/join/gYHQHlWo).
+2. Install the Rejoice Music app from [Test Flight](https://testflight.apple.com/join/gYHQHlWo).
 
 **Android**
-1. Enable developer mode on your phone.
-  - Android 9 (API level 28) and higher: Settings > About Phone > Build Number.
-  - Android 8.0.0 (API level 26) and Android 8.1.0 (API level 26): Settings > System > About Phone > Build Number.
-  - Android 7.1 (API level 25) and lower: Settings > About Phone > Build Number
-2. Download and install from the [download site](https://rejoicemusic.github.io/test-site/release/android/app.apk).
+1. Download and install from the [download site](https://rejoicemusic.github.io/test-site/release/android/app.apk). You may need to enable "Allow installation from unknown sources" in the phone settings.
 
 
 
