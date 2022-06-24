@@ -48,7 +48,7 @@ The app currently has a limited selection of Zion's Harp albums. Please provide 
 2. Install the Rejoice Music app from [Test Flight](https://testflight.apple.com/join/gYHQHlWo).
 
 **Android**
-1. Download and install from the [download site](https://rejoicemusic.github.io/test-site/release/android/app.apk). You may need to enable "Allow installation from unknown sources" in the phone settings.
+1. Download and install from the [download site](https://rejoicemusic.github.io/app-site/release/android/app.apk). You may need to enable "Allow installation from unknown sources" in the phone settings.
 
 
 
