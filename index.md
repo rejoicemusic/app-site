@@ -18,7 +18,7 @@
 </style>
 
 
-## Rejoice Music App
+## Rejoice Music
 
 [Testing](testing)
 

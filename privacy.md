@@ -6,13 +6,19 @@
   h2 {
     border-bottom: 4px solid #607c8a !important;
   }
+  h3 {
+    margin-top: 36px !important;
+  }
   ul {
-    padding-left: 18px;
+    padding-left: 18px !important;
+  }
+  .markdown-body {
+    max-width: 800px
   }
 </style>
 
 
-## Rejoice Music Privacy Policy
+## Rejoice Music - Privacy Policy
 
 The Rejoice Music app collects basic anonymous usage and error information. We use this to improve the app and to provide better customer service.
 
