@@ -34,9 +34,9 @@ The app currently has a limited selection of Zion's Harp albums. Please provide 
 - Background audio support. Shows "now playing" information and controls on the lock screen.
 - Airplay and Bluetooth support. Connect and play on the Apple Homepod, Amazon Echo, and other Bluetooth devices.
 - Car support. Show "now playing" information and controls on your car screen.
+- Search: Search for artists, albums and songs.
+- User playlists: Create playlists of songs.
 - Full Rejoice Music Library - Coming Soon
-- Search - Coming Soon
-- User playlists - Coming Soon
 - Sync settings between devices - Coming Soon
 
 
